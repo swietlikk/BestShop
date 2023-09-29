@@ -77,7 +77,6 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    color: var(--);
     font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -94,7 +93,7 @@
     margin-bottom: 2.375rem;
     font-size: 1rem;
     font-family: 'Open Sans';
-    color: var(--color-black: #000000;);
+    color: var(--color-black);
     font-weight: normal;
 }
 
@@ -116,3 +115,4 @@
     text-align: center;
     line-height: 1.4375rem;
 }
+
